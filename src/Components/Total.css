@@ -1,0 +1,70 @@
+.total {
+  background: white;
+  height: 250px;
+  width: 400px;
+  margin: 0 50px;
+  margin-top: 15px;
+  border: 1px solid lightgray;
+  padding: 0 15px;
+}
+
+.total__buttons {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  margin: 0 auto;
+}
+
+.total__buttons button {
+  font-size: 14px;
+  padding: 14px 0;
+  margin-top: 12px;
+  border-radius: 5px;
+}
+
+.buttonOne {
+  background-color: #0654ba;
+  color: #fff;
+  border: 1px solid #0654ba;
+}
+
+.buttonTwo {
+  border: 1px solid black;
+  background: transparent;
+}
+
+.total__info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 0;
+  border-bottom: 1px solid lightgray;
+  font-size: 14px;
+  color: rgb(72, 72, 72);
+}
+
+.total__infoRight {
+  text-align: right;
+}
+
+.total__price {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0px;
+  font-size: 18px;
+}
+
+@media (max-width: 1300px) {
+  .total {
+    margin: 0 80px;
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .total {
+    width: 300px;
+    margin: 0 40px;
+    margin-top: 15px;
+  }
+}
