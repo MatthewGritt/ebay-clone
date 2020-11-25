@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ebay-clone/static/css/main.8b8ba183.chunk.css",
+    "main.js": "/ebay-clone/static/js/main.f19b3809.chunk.js",
+    "main.js.map": "/ebay-clone/static/js/main.f19b3809.chunk.js.map",
+    "runtime-main.js": "/ebay-clone/static/js/runtime-main.a3174269.js",
+    "runtime-main.js.map": "/ebay-clone/static/js/runtime-main.a3174269.js.map",
+    "static/js/2.09d674cc.chunk.js": "/ebay-clone/static/js/2.09d674cc.chunk.js",
+    "static/js/2.09d674cc.chunk.js.map": "/ebay-clone/static/js/2.09d674cc.chunk.js.map",
+    "static/js/3.3ee61840.chunk.js": "/ebay-clone/static/js/3.3ee61840.chunk.js",
+    "static/js/3.3ee61840.chunk.js.map": "/ebay-clone/static/js/3.3ee61840.chunk.js.map",
+    "index.html": "/ebay-clone/index.html",
+    "static/css/main.8b8ba183.chunk.css.map": "/ebay-clone/static/css/main.8b8ba183.chunk.css.map",
+    "static/js/2.09d674cc.chunk.js.LICENSE.txt": "/ebay-clone/static/js/2.09d674cc.chunk.js.LICENSE.txt",
+    "static/media/carousel-pic-1.704cc792.webp": "/ebay-clone/static/media/carousel-pic-1.704cc792.webp",
+    "static/media/item-1.7a1a6761.webp": "/ebay-clone/static/media/item-1.7a1a6761.webp",
+    "static/media/item-2.bdd10038.webp": "/ebay-clone/static/media/item-2.bdd10038.webp",
+    "static/media/item-3.673975bf.webp": "/ebay-clone/static/media/item-3.673975bf.webp",
+    "static/media/item-4.5baf2ebb.webp": "/ebay-clone/static/media/item-4.5baf2ebb.webp",
+    "static/media/item-5.4b261c6b.webp": "/ebay-clone/static/media/item-5.4b261c6b.webp",
+    "static/media/item-6.76105836.webp": "/ebay-clone/static/media/item-6.76105836.webp",
+    "static/media/item-7.267f2413.webp": "/ebay-clone/static/media/item-7.267f2413.webp",
+    "static/media/item-8.c83cec7d.webp": "/ebay-clone/static/media/item-8.c83cec7d.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3174269.js",
+    "static/js/2.09d674cc.chunk.js",
+    "static/css/main.8b8ba183.chunk.css",
+    "static/js/main.f19b3809.chunk.js"
+  ]
+}
